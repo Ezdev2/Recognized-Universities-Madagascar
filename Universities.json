@@ -1,0 +1,7891 @@
+```json
+[
+  {
+    "name": "ACEEM BUSINESS SCHOOL",
+    "address": "Ankadivato",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique de Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Droit et Éthique des Affaires"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ASJA",
+    "address": null,
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ATHENEE SAINT JOSEPH ANTSIRABE",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences agronomiques",
+              "Sciences de la terre",
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Économie et Commerce",
+              "Sciences agronomiques",
+              "Sciences de la terre",
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "N/A",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Économie et Commerce"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Économie et Commerce",
+              "Droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BEATY UNIVERSITY",
+    "address": "Toamasina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CEITOP CENTRE D'ETUDES, DE L'INFORMATION ET SES TECHNOLOGIES, ORIENTE PROFESSIONNEL",
+    "address": "Ambolokandrina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CEL CENTRE ECOLOGIQUE DE LIBANONA",
+    "address": "Ford-Dauphin",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion de l'Environnement au Service du Développement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CERF ARMI CONSEILS-ETUDES- REALISATION-FORMATION ARMI",
+    "address": "6 7Ha N/E",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CFAMA CENTRE DE FORMATION ET D'APPLICATION DU MACHINISME AGRICOLE ANTSIRABE",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Machinisme Agricole"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CFRH CENTRE DE FORMATION DES RESSOURCES HUMAINES",
+    "address": "Tsaralalana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion des Ressources Humaines"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion des Ressources Humaines"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CNAM CONSERVATOIRE NATIONAL DES ARTS ET METIERS",
+    "address": "67 HA Maison des Produits",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et Société"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management et Société"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Industrielles et Technologies de l'Information"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Industrielles et Technologies de l'Information"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CRAC ETUDIANTS CENTRE DE RESSOURCES, D'ASSISTANCE ET DE CONSEIL",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Économie-Gestion",
+              "Droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ECAT TARATRA ECOLE DE COMPTABILITE ET D'ADMINISTRATION TARATRA",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EBM INSTITUTE ENGINEERING AND BUSINESS MALAGASY",
+    "address": "Antanetibe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de Gestion et Administration d'Entreprises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EEFPSCONDORCET ETABLISSEMENT D'ENSEIGNEMENT ET DE FORMATION PROFESSIONNELLE SUPERIEURE CONDORCET",
+    "address": "Faravohitra",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Civil"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Civil et Industriel"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EPSA ECOLE PROFESSIONNELLE SUPERIEURE AGRICOLE",
+    "address": "Bevalala",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Agronomiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Agronomiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EPESL ETABLISSEMENT PRIVE D'ENSEIGNEMENT SUPERIEUR LUMIERE",
+    "address": "Malaho",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Administration d'Entreprises",
+              "Banque et Institutions de Micro finance",
+              "Droit et Technique des Affaires"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESBTPB ECOLE SUPERIEURE DE BATIMENT ET TRAVAUX PUBLICS",
+    "address": "Bevalala",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Civil"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCM BUSINESS SCHOOL",
+    "address": "(Immeuble le Colisée) Ampasanimalo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management des Affaires"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESCT ECOLE SUPERIEURE DE COMMERCE ET TECHNIQUE",
+    "address": "Analamahitsy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESD ECOLE SUPERIEURE DE DROIT",
+    "address": "Nanisana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit et Sciences Politiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESDES ECOLE SUPERIEURE DE DEVELOPPEMENT ECONOMIQUE ET SOCIAL",
+    "address": "Ankadivato",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Travail Social",
+              "Gestion",
+              "Économie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Travail Social"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESIGE ECOLE SUPERIEURE D'INFORMATIQUE ET DE GESTION DES ENTREPRISES",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Droit",
+              "Droit et Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion",
+              "Droit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme et Hôtellerie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Tourisme et Hôtellerie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "N/A",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion",
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de Gestion",
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESMIA ECOLE SUPERIEURE DE MANAGEMENT ET D'INFORMATIQUE APPLIQUEE",
+    "address": "Mahamasina Atsimo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion (accrédité)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion (accrédité)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESP BIG ETABLISSEMENT SUPERIEUR PROFESSIONNEL BUREAUTIQUE, INFORMATIQUE ET GESTION",
+    "address": "Behoririka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESPIC ECOLE SUPERIEURE PROFESSIONNELLE EN INFORMATIQUE ET COMMERCE",
+    "address": "67 ha N.O",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESSCA ECOLE SUPERIEURE SACRE-CŒUR D'ANTANIMENA",
+    "address": "Antanimena",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion",
+              "Sciences de Gestion (Management des Affaires)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESSED ECOLE SUPERIEURE SPECIALISEE EN DROIT",
+    "address": "Fort Duchesne - Ankatso",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESSGAM ECOLE SUPERIEURE SAINT GABRIEL MAHAJANGA",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Commerce et Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Commerce et Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESSVA ECOLE SUPERIEURE SPECIALISEE DE VAKINAKARATRA",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EST ECOLE SUPERIEURE DE TECHNOLOGIE",
+    "address": "Faravohitra (ne se trouve plus à cette adresse)",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Électromécanique",
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion Management",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences et Techniques de l'Éducation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication et Journalisme",
+              "Écotourisme et Hôtellerie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESTI ECOLE SUPERIEURE DESTECHNOLOGIES DE L'INFORMATION",
+    "address": "Antanimena",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Ingénierie des Technologies de l'Information"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESTIIM ENGINEERING SCHOOL OF TOURISM, INFORMATICS, INTERPRETERSHIP AND MANAGEMENT",
+    "address": "67 Ha",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Gestion",
+              "Interprétariat, Diplomatie et Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit et Sciences Politiques",
+              "Administration, Management, Commerce, Marketing"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme, Hôtellerie et Environnement",
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Tourisme, Hôtellerie et Environnement",
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESUM ECOLE SUPERIEURE DE MANAGEMENT",
+    "address": "Ambohitsaina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Statistique",
+              "Économie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ETEC EDUCATION IN TRAINING. EMPLOYMENT AND COMMUNICATION",
+    "address": "Faravohitra",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Bâtiment et Travaux Publics, Électromécanique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Bâtiment et Travaux Publics, Électromécanique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Administration, Gestion, Finances. Informatique de Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Administration, Gestion, Finances. Informatique de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ETFPS-RLG ETABLISSEMENT TECHNIQUE DE FORMATION PROFESSIONNELLE SUPERIEURE",
+    "address": "Manjakaray",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Logiciel, Réseaux",
+              "Génie Electrotechnique et Maintenance"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique",
+              "Gestion et Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ETS SAINT-MICHEL ETABLISSEMENT TECHNIQUE SUPERIEUR SAINT MICHEL",
+    "address": "Amparibe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Mécanique et Informatique Industrielle",
+              "Électromécanique et Automatisme Industriel",
+              "Génie Industriel"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Mécanique et Informatique Industrielle"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "EUROI ESPACE UNIVERSITAIRE REGIONAL DE L'OCEAN INDIEN",
+    "address": "Ankadindramamy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Électronique et Télécommunication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Électronique et Télécommunication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "FFF MM-IMD INGENIERIE ET MANAGEMENT DES ACTIONS DE DEVELOPPEMENT",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Développement Local"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Développement Local"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Education",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Education et Développement Local"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Education et Développement Local"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GSSPA GRAND SEMINAIRE SAINT PAUL APOTRE Manantenasoa",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Philosophie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "GUA GATE UNIVERSITY AMBOHIDRATRIMO",
+    "address": "Ambohidratrimo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HECMMA HAUTES ETUDES CHRETIENNES DE MANAGEMENT ET DE MATHEMATIQUES APPLIQUEES",
+    "address": "Alarobia Amboniloha",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Télécommunication Informatique et Électronique",
+              "BTP et Aménagement du Territoire"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Télécommunication Informatique et Électronique",
+              "BTP et Aménagement du Territoire"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et Sciences Économiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management et Sciences Économiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "HEDM HAUTES ETUDES EN DROIT ET EN MANAGEMENT",
+    "address": "Soanierana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion",
+              "Sciences juridiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ICND INSTITUT CATHOLIQUE NOTRE DAME",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Études Françaises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ICTUS INSTITUTION CHRETIENNE DE TSIENIMPARIHY, UNIE PAR LE SAUVEUR",
+    "address": "Ambalavao",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IEFPA ACEEM INSTITUT D'ENSEIGNEMENT ET DE FORMATION PROFESSIONNELLE",
+    "address": "Ambatomitsangana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IEP INSTITUT D'ETUDES POLITIQUES MADAGASCAR",
+    "address": "Ampandrana Ouest",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Politiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IESTIME INSTITUT D'ENSEIGNEMENT SUPERIEUR DE TECHNOLOGIE INFORMATIQUE ET DE MANAGEMENT D'ENTREPRISE",
+    "address": "Antaninandro",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion",
+              "Sciences de Gestion (FOAD)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologie",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LESTIME INSTITUT D'ENSEIGNEMENT SUPERIEUR DE TECHNOLOGIE INFORMATIQUE ET DE MANAGEMENT D'ENTREPRISE",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "N/A",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Sciences de Gestion (FOAD)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LFAGI et PARAMED INSTITUT DE FORMATION EN AGRONOMIE, GEMMOLOGIE, INDUSTRIALISATION ET PARAMED",
+    "address": "Andravoahangy ambony",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Civil"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFP RAKETAMANGA INSTITUT DE FORMATION PROFESSIONNELLE RAKETAMANGA",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Propriété Intellectuelle",
+              "Muséologie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFRP INSTITUT DE FORMATION ET DES RECHERCHES PEDAGOGIQUES",
+    "address": "Ambodin'Andohalo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Enseignements Littéraires",
+              "Enseignements Scientifiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFT INSTITUT DE FORMATION TECHNIQUE",
+    "address": "Antananarivo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Bâtiment et Travaux Publics",
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Bâtiment et Travaux Publics",
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Information-Communication- Journalisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Information-Communication- Journalisme",
+              "Tourisme et culture"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Environnement"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de l'Environnement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFT INSTITUT DE FORMATION TECHNIQUE",
+    "address": "Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme et Hôtellerie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFT INSTITUT DE FORMATION TECHNIQUE",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "BTP"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFT INSTITUT DE FORMATION TECHNIQUE",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Environnement"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFT INSTITUT DE FORMATION TECHNIQUE",
+    "address": "Toamasina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique",
+              "BTP"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IGS INSTITUT DE GEOGRAPHIE DE LA SOFIA",
+    "address": "Antsohihy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Géographie humaine"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IISS INSTITUT INTERNATIONAL DES SCIENCES SOCIALES",
+    "address": "Tsimbazaza",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Hygiène-Sécurité-Environnement et Technologie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Hygiène-Sécurité-Environnement et Technologie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Économiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Économiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication et Société"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Communication et Société"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ILC INSTITUT DE LEADERSHIP CHRETIEN",
+    "address": "Antaninandro",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management/Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IMAGE APPLI",
+    "address": "Ankerana Ankadindramamy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion Économie, management et Commerce Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IMGAM INSTITUT DE MANAGEMENT DES ARTS ET METIERS",
+    "address": "Ivandry",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Biologiques et environnementales"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Administration",
+              "Management d'Entreprise et Banque"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management d'Entreprise et Banque"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IMT INSTITUTE OF MANAGEMENT AND TOURISM",
+    "address": "Antanimena",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Hotel and Tourism Management"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Hotel and Tourism Management"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management and Business Studies",
+              "Building and Public Work"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management and Business Studies",
+              "Building and Public Work"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INATA INSTITUT DES ARTS ET DES TECHNOLOGIES AVANCEES",
+    "address": "Ankadivato",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique, Arts et Multimédia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INFOTOUR INSTITUT DE FORMATION EN TOURISME",
+    "address": "Ankadivato",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme et Hôtellerie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INFOTOUR INSTITUT DE FORMATION EN TOURISME",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme et Hôtellerie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSIDE UNIVERSITY ROSSIGNOL INSTITUT SUPERIEUR INDISPENSABLE AU DEVELOPPEMENT",
+    "address": "Ambondrona",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Droit"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD ANALAMANGA INSTITUT SUPERIEUR PRIVE DES NOVATEURS DE MADAGASCAR",
+    "address": "Ambaranjana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Banque et Institutions des micros finances",
+              "Gestion et Administration d'Entreprises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD BOENY INSTITUT SUPERIEUR PRIVE DES NOVATEURS DE MADAGASCAR",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Gestion et Administration d'Entreprises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INTETLIAM INSTITUTE OF TECHNICAL TECHNOLOGY, LIVING AND INTERDISCIPLINARY ARTS OF MADAGASCAR",
+    "address": "Andranovory",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Bâtiment et Travaux Publics, Architecture"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IPAE IVON-TOERAM-PAMPIANARANA AMBONY MOMBA NY EOKOMENISMA",
+    "address": "Anjohy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Études œcuméniques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IPAM INSTITUT PRIVE AL MOUSTAPHA",
+    "address": "Ambohitrarahaba",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Langue et Littérature Arabes"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IPSATTA INSTITUT PROFESSIONNEL SUPERIEUR EN AGRONOMIE ET EN TECHNOLOGIE DE TOMBOTSOA ANTSIRABE",
+    "address": "Antsirabe II",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Agronomiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISA INSTITUT SUPERIEUR D'AMBATOMIRAHAVANY",
+    "address": "Ambatomirahavavy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Création d'Entreprise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISAE INSTITUT EN ADMINISTRATION D'ENTREPRISE << CABINET АТОМІС>>",
+    "address": "Ankatso",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISAP INSTITUT SUPERIEUR DES AVENIRS PROFESSIONNELS",
+    "address": "Ambohidrapeto Itaosy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication et Journalisme",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISAPSP INSTITUT SUPERIEUR POUR L'AVENIR DES POLYTECHNICIENS ET DE LA SANTE PUBLIQUE",
+    "address": "Ambanja",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique",
+              "Bâtiment et travaux Publics"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IS-ATM INSTITUT SUPERIEUR ATOUT TOURISME MADAGASCAR",
+    "address": "Ankorahotra",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Hôtellerie Tourisme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISCAM INSTITUT SUPERIEUR DE LA COMMUNICATION DES AFFAIRES ET DE MANAGEMENT",
+    "address": "Ankadifotsy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Sciences de Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion",
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISCAMEN INSTITUT SUPERIEUR CATHOLIQUE DU MENABE",
+    "address": "Morondava",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Métier de l'Enseignement et de l'Éducation Scientifique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISDE INSTITUT SUPERIEUR POUR LE DEVELOPPEMENT DE L'ENTREPRENARIAT",
+    "address": "67 Ha Sud",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Administration et gestion d'Entreprise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISECOM INSTITUT SUPERIEUR POUR L'ENTREPRENEURIAT, LE COMMERCE ET LE MANAGEMENT",
+    "address": "Ampasamadinika",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Commerce International et Opérations Douanières"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISETS INSTITUT SUPERIEUR D'ENSEIGNEMENT TECHNOLOGIQUE ET DES SCIENCES",
+    "address": "Ambohidahy Ankadindramamy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication",
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Civil"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISGEI INSTITUT SUPERIEUR DE GENIE ELECTRONIQUE INFORMATIQUE",
+    "address": "Ampandrana Ouest",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Ingénierie en Signaux, Images et Systèmes Associés"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Ingénierie en Signaux, Images et Systèmes Associés"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISGIEM INSTITUT SUPERIEUR DE GEOLOGIE DE L'INGENIEUR ET DE L'ENVIRONNEMENT DE MADAGASCAR",
+    "address": "Ankadivato",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Géologie de l'Ingénieur et de l'Environnement"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Civil",
+              "Génie géologique",
+              "Environnement et gestion durable Des ressources naturelles"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISIA INSTITUT SUPERIEUR DE L'INNOVATION D'ANTSIRANANA",
+    "address": "Antsiranana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et Commerce International"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IS-IESI INSTITUT SUPERIEUR D'ELECTRONIQUE ET DE SYSTEME INFORMATIQUE",
+    "address": "Anjanahary",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique, Télécommunication et Électronique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISIME INSTITUT SUPERIEUR D'INFORMATIQUE ET DE MANAGEMENT D'ENTREPRISE",
+    "address": "Betongolo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IS-INFO INSTITUT SUPERIEUR EN INFORMATIQUE",
+    "address": "Ampasamadinika",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISITM INSTITUT SUPERIEUR DE L'INGENIERIE ET DES TECHNIQUES DE MANAGEMENT",
+    "address": "Ankatso",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Civil",
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IS2M INSTITUT SUPERIEUR DES METIERS DE MADAGASCAR",
+    "address": "Ambohimitsimbina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Mathématiques Appliquées en informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Technologies et Méthodes Informatiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Économie-Management"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management et ingénierie économique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMADA INSTITUT SUPERIEUR EN MANAGEMENT ET DU DEVELOPPEMENT D'ANTSIRANANA",
+    "address": "Antsiranana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et Développement"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Management et Développement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISM ADVANCEA",
+    "address": "Ambohijatovo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Droit"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMR INSTITUT SUPERIEUR MONSEIGNEUR RAMAROSANDRATANA",
+    "address": "Miarinarivo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Appui au Développement Local"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMST INSTITUT SUPERIEUR DE MANAGEMENT ET DES SCIENCES TECHNOLOGIQUES",
+    "address": "Mahajanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion en Administration d'Entreprise",
+              "Droit et Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit des Affaires et Administration d'Entreprises"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Sciences de l'eau"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMT INSTITUT SUPERIEUR DE MANAGEMENT ET DE TECHNOLOGIE",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Technologie Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISNA INSTITUT SUPERIEUR NUMERIQUE D'ANTANANARIVO",
+    "address": "Antetezana Bongatsara",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISNM INSTITUT SUPERIEUR NORD MADAGASCAR",
+    "address": "Antsiranana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPA INSTITUT SUPERIEUR DE PEDAGOGIE D'ANTANANARIVO",
+    "address": "Antamponankatso",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Education",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Mathématiques - Physique - Sciences de la Vie et de la Terre",
+              "Métier de l'enseignement et de l'éducation littéraire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IS PAg INSTITUT SUPERIEUR PRIVE AGRICOLE",
+    "address": "Ampandrianomby",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPM INSTITUT SUPERIEUR POLYTECHNIQUE DE MADAGASCAR",
+    "address": "Ambatomaro Antsobolo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Biotechnologies",
+              "Génie Industriel",
+              "Génie Civil et Architecture",
+              "Informatique et télécommunication",
+              "Technique de l'environnement et du Tourisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Biotechnologies",
+              "Génie Industriel",
+              "Génie Civil et Architecture",
+              "Informatique et télécommunication",
+              "Environnement et Tourisme"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et Technique des Affaires"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit et Technique des Affaires"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Technique du Tourisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Technique du Tourisme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISP-MDF INSTITUT SUPERIEUR PRIVE MADAGASCAR DEVELOPPEMENT FORMATION",
+    "address": "Isoraka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Commerce International"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPPM INSTITUT SUPERIEUR PROTESTANT PAUL MINAULT",
+    "address": "Ambohijatovo Atsimo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences agronomiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPRD INSTITUT SUPERIEUR PRIVE DE LA REGION DIANA",
+    "address": "Antsiranana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPRI INSTITUT SUPERIEUR DES POLYTECHNICIENS DE LA REGION D'ITASY",
+    "address": "Analavory",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSD INSTITUT SUPERIEUR DES SCIENCES DE DEVELOPPEMENT",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Ingénierie Sociale"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSEG INSTITUT SUPERIEUR EN SCIENCES DE L'ENVIRONNEMENT ET DE GESTION",
+    "address": "Soanierana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Environnement"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et ses Applications"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSIG INSTITUT SUPERIEUR SPECIALISE EN INFORMATIQUE ET EN GESTION",
+    "address": "Infocentre de la Salle Soavimbahoaka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSMI INSTITUT SUPERIEUR SAINT MICHEL ITAOSY",
+    "address": "Itaosy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion managériale"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Administration"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme, Environnement et Hôtellerie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISS PSTHOMAS D'AQUIN INSTITUT SUPERIEUR SALESIEN DE PHILOSOPHIE SAINT THOMAS D'AQUIN",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Philosophie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSSG INSTITUT SUPERIEUR DE SPECIALISATION EN SCIENCES DE GESTION",
+    "address": "GROUPE EMIR Consulting Ankasina 67 НА",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Contrôle de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSUP INSTITUT SUPERIEUR PRIVE PROFESSIONNEL",
+    "address": "Behoririka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST INSTITUT SUPERIEUR DE TECHNOLOGIES",
+    "address": "Manakara",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Métier de l'Eau et de l'Électricité"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST IME INSTITUT SUPERIEUR DE TECHNOLOGIE INDUSTRIEL ET DE MANAGEMENT",
+    "address": "Antsiranana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Industriel et Maintenance"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion d'Entreprise et des Administrations",
+              "Management des Entreprises"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTR INSTITUT SUPERIEUR DE TECHNOLOGIE REGIONAL DE FITOVINANY",
+    "address": "(EGEEIT) Manakara",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Agronomiques et Halieutiques"
+            ]
+          },
+          {
+            "name": "DTS /DTSS (Licence)",
+            "mentions": [
+              "Informatique systèmes, Télécommunication et Réseaux",
+              "Électrotechnique, Électronique et Instrumentation Automatiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTS INSTITUT SUPERIEUR DE TRAVAIL SOCIAL",
+    "address": "Iavoloha",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Travail social (Accrédité)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Travail social (Accrédité)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ITSA INSTITUT TECHNIQUE SUPERIEUR AGRICOLE",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Agronomiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ITSFX INSTITUT TECHNIQUE SUPERIEUR FRANCOIS XAVIER",
+    "address": "Antady Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Industriel"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ITU INFORMATION TECHNOLOGY UNIVERSITY",
+    "address": "Andoharanofotsy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Commerce"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IUM INSTITUT UNIVERSITAIRE DE MADAGASCAR",
+    "address": "Isoraka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Administration d'Entreprise"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IUP-AESM INSTITUT UNIVERSITAIRE PROFESSIONNEL EN ADMINISTRATION D'ENTREPRISE ET EN SCIENCES MARINES",
+    "address": "Nosy Be Hell-Ville",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Marines et de l'Environnement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JAU JEANNE D'ARC UNIVERSITY",
+    "address": "Ampandrana Bel Air (ne se trouve plus à cette adresse)",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de la Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LMBU LEADERSHIP MANAGEMENT BUSINESS UNIVERSITY",
+    "address": "Ambatomaro",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de la Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LIME LUTHERAN INSTITUTE OF MANAGEMENT AND ENTREPRENEURSHIP",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Management et Entreprenariat"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MTC MAD'AID TRAINING CENTER",
+    "address": "Nanisana Iadiambola",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologie",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie et Environnement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MU MILLENIUM UNIVERSITY",
+    "address": "Mahitsy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de la Gestion",
+              "Sciences Juridiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MUST UNIVERSITY MADAGASCAR UNIVERSITY OF SCIENCE AND TECHNOLOGY",
+    "address": "Ampefioha",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Économie",
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ONIFRA ONIVERSITE FJKM RAVELOJAONA",
+    "address": "Moramanga",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie",
+              "Génie Civil",
+              "Sciences Appliquées et Environnement",
+              "Sciences de la Communication et Multimédia",
+              "Sciences de l'Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de la Communication et Multimédia"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Langue et lettres anglaises",
+              "Tourisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Théologie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PSP PHILOSOPHAT SAINT PAUL",
+    "address": "Ambanidia",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Philosophie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SALT SEKOLY AMBONY LOTERANA MOMBA NY TEOLOЛА",
+    "address": "Fianarantsoa",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Théologie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Théologie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SAMISESIC ECOLE SUPERIEURE DE L'INFORMATION ET DE LA COMMUNICATION",
+    "address": "Amparibe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Information et Communication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Information et Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TANA PREMIER ONG-UNIVERSITE POUR TOUS",
+    "address": "Ambondrona",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TOP INFO INSTITUT TOP INFO",
+    "address": "Anjanahary",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "TSI TECHNOLOGY SPECIALISTS INFORMATIC",
+    "address": "Ambatomaro",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE ACEEM - MADAGASCAR BUSINESS SCHOOL -",
+    "address": "Manakambahiny",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie",
+              "Informatique - Électronique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Science de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Technique médicale"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et Sciences politiques",
+              "Gestion",
+              "Sciences Économiques et Études de Développement",
+              "Management des Affaires"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Gestion",
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de la Communication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de la Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE ASCOM",
+    "address": "Ambodifilao (siège)",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UAZ UNIVERSITE ADVENTISTE ZÜRCHER",
+    "address": "Sambaina Antsirabe",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion",
+              "Droit"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication",
+              "Études en Théologie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Études en Théologie",
+              "Études Anglophones",
+              "Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UCM UNIVERSITE CATHOLIQUE DE MADAGASCAR",
+    "address": "Ambatoroka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Philosophie",
+              "Psychologie",
+              "Théologie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "psychologie",
+              "Philosophie",
+              "Théologie",
+              "Anthropologie et Écologie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit-Économie",
+              "Droit",
+              "Économie et Gestion",
+              "Sciences Sociales Appliquées au Développement",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Économie et Gestion",
+              "Sciences Sociales Appliquées au Développement",
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "U E-MEDIA UNIVERSITE DES MEDIAS, DE L'AUDIOVISUEL ET DE LA TECHNOLOGIE",
+    "address": "Tsiadana Ampasanimalo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Marketing Publicité et Journalisme",
+              "Communication Audiovisuelle et Numérique (L)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Marketing Publicité et Journalisme",
+              "Audiovisuel et Cinématographie (M)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique et Télécommunication (L)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique et Télécommunication (L)",
+              "Informatique et Électronique Embarquées (M)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "U-GSI UNIVERSITÉ GENIUS SYSTEM INFORMATICS",
+    "address": "Antaninarenina",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "B TP"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication journalisme et communication multimédia"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERS INFORMATIQUE",
+    "address": "Andravoahangy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion et Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UIM UNIVERSITE INTERNATIONALE DE MADAGASCAR",
+    "address": "Antetezanafovoany",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Commerce",
+              "Gestion",
+              "Économie",
+              "Droit"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UOI UNIVERSITE OUEST D'IARIVO",
+    "address": "Ambohitrimanjaka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Science de l'Éducation Thérapeutique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UP ALPHA SCHOOL UNIVERSITE PRIVEE ALPHA SCHOOL",
+    "address": "Itaosy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UP AMBOHIDRATRIMO UNIVERSITE PRIVEE AMBOHIDRATRIMO",
+    "address": "Ambohidratrimo",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Philosophie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Philosophie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique de Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPA-HP I/ MASCA UNIVERSITÉ POLYTECHNIQUE D'AVARADRANO",
+    "address": "Sabotsy Namehana",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Entreprenariat rural",
+              "Sciences de la Communication"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPHS UNIVERSITE PRIVEE HAY SOA",
+    "address": "67 НА",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique de gestion",
+              "Génie Civil"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion-Économie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Gestion-Économie",
+              "Communication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Civil"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPI UNIVERSITE PRIVEE POUR L'INNOVATION",
+    "address": "Ankadindramamy",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPRIM UNIVERSITE PRIVEE DE MADAGASCAR",
+    "address": "Andavamamba",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Informatique - Réseaux et Multimédia"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Managériales",
+              "droit"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UTB UNIVERSITY OF TECHNOLOGY AND BUSINESS",
+    "address": "Mandrimena lavoloha",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UTM UNIVERSITE DE TECHNOLOGIES A MADAGASCAR",
+    "address": "(ex ISTAM) Toliara",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme Durable"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "VATEL INTERNATIONAL BUSINESS SCHOOL HOTEL AND TOURISM MANAGEMENT",
+    "address": "Ambatoroka",
+    "type": "PRIVÉ",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Hôtellerie Internationale"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Hôtellerie Internationale"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AKAMASOA UNIVERSITE SAINT VINCENT DE PAUL",
+    "address": "Andralanitra",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "AHU AROVY HEALTHCARE UNIVERSITY",
+    "address": "Ambohitantely",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Anesthésie Réanimation",
+              "Maïeutique",
+              "sciences infirmières",
+              "Génie Biomédical"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "BIP",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESFI",
+    "address": "Mandritsara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESFPB",
+    "address": "Androndra",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme",
+              "Technicien de Laboratoire d'analyses médicales"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESIJEAN PAUL II",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Infirmières",
+              "Sciences Maïeutiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESIF",
+    "address": "Fianarantsoa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESISFA",
+    "address": "Ankadifotsy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sagefemme-"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESPAMANGORO",
+    "address": "Moramanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Bio technicien d'Analyses Médicales"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ESPM",
+    "address": "Itaosy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Bio technicien d'analyses médicales"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFAGI ET PARAMED",
+    "address": "Andravoahangy Ambony",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFAS",
+    "address": "Analamahitsy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Infirmier de Bloc Opératoire",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFELP",
+    "address": "Anosy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFIMA",
+    "address": "Antalaha",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Infirmières",
+              "Maïeutique",
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFISA",
+    "address": "Ambanja",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFISA",
+    "address": "Antalaha",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LFISA",
+    "address": "Moramanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFISAM",
+    "address": "Ambositra",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPA",
+    "address": "Analanjirofo",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPAMA",
+    "address": "Mananara Avaratra",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFP-CRAC",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPF",
+    "address": "Fianarantsoa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFP Melaky",
+    "address": "Maintirano",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPM",
+    "address": "Mandritsara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPS Sofia",
+    "address": "Ambalatany Antsohihy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPSAVA",
+    "address": "Antalaha",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFPT",
+    "address": "Tsiroanomandidy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSI-INTERMED",
+    "address": "Ankazomanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSI SJA",
+    "address": "Mandritsara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSM",
+    "address": "67 ha",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSP",
+    "address": "Soanierana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Infirmier Anésthésiste Reanimation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSP ATSINANANA",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSP LES ROSSIGNOLS",
+    "address": "Fianarantsoa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "InfirmierGénéraliste",
+              "Infirmier Généraliste",
+              "Infirmier de Bloc Opératoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSPN",
+    "address": "Nosy Be Hell-ville",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSPR",
+    "address": "Mananjary",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSPT",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IFSTM",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INFOSUUP",
+    "address": "Ambolokandrina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSFP",
+    "address": "Toliara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSEPTA",
+    "address": "Fénérive Est",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPAFORT",
+    "address": "Fort-Dauphin",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPALM",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPALMA",
+    "address": "Fandriana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Maïeutique",
+              "Sciences Infirmières"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPAM",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPAMEN",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPARI",
+    "address": "Miarinarivo",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD ANTANANARIVO",
+    "address": "Manakambahiny",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Infirmier",
+              "Kinésithérapeute",
+              "Technicien de laboratoire",
+              "Urgences et Catastrophes",
+              "Instrumentation et Hygiène du Bloc Opératoire",
+              "Anesthésie et réanimation"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD",
+    "address": "Toliara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD Atsinanana",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD Boeny",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD Haute Matsiatra",
+    "address": "Fianarantsoa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPNMAD Vakinankaratra",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IP Le Bon Samaritain",
+    "address": "Toliara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IPPI",
+    "address": "Ihorombe Ihosy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISA",
+    "address": "Antsiranana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISAPSP",
+    "address": "Ambanja",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISB",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISCAMEN",
+    "address": "Morondava",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFP",
+    "address": "Andapa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Infirmière",
+              "Sciences Maïeutiques",
+              "Sagefemme-",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFP Andriamihaja",
+    "address": "Andoharanofotsy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFP Leader",
+    "address": "Ambovombe Androy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFPM Megnanara",
+    "address": "Vangaindrano",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFPP",
+    "address": "Manakara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFPS",
+    "address": "Namehana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFPS Leader",
+    "address": "Fort Dauphin",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFSIM",
+    "address": "Marovoay",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISFSP",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISISFA",
+    "address": "Antsiranana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMATEC",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISMATEC Boeny",
+    "address": "Mahajanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISNM",
+    "address": "Antsiranana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPAM",
+    "address": "Maroantsetra",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPARAMED",
+    "address": "Itaosy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier",
+              "Technicien de Laboratoire et d'Analyses Médicales"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPASM",
+    "address": "Amparafaravola",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPAVA",
+    "address": "Vatomandry",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPMD",
+    "address": "Anosibe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire",
+              "Masso-kinésithérapeute"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPE",
+    "address": "Tsiroanomandidy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPGI",
+    "address": "Ambohimangakely",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Infirmières",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPNA",
+    "address": "Antsiranana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de réhabilitation Spécialisées en Neuropsychiatrie Infantile",
+              "Sciences Infirmières Spécialisées"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPPS",
+    "address": "Toliara",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Infirmier spécialisé en ISUC, ISAR, ISIHBO"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISP RAITRA",
+    "address": "Ambalavao",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPRD",
+    "address": "Antsiranana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPR SAVA",
+    "address": "Sambava",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISPS",
+    "address": "Sambirano",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LS S/F P",
+    "address": "Fianarantsoa",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSPM",
+    "address": "Toamasina",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISSSD",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISST PARAMED",
+    "address": "Andrefan'Ambohijanahary",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier",
+              "Sage-femme",
+              "Kinésithérapie",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "MILLENIUM UNIVERSITY",
+    "address": "Mahitsy",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ONIFRA",
+    "address": "Ambatonakanga",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Infirmier Anésthésiste",
+              "Sage-femme",
+              "Maïeutiques",
+              "Technicien de Radiologie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PARAMA-IF",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "PARMI",
+    "address": "Ambohidratrimo",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SEFAM",
+    "address": "Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Infirmier Généraliste",
+              "Sage-femme",
+              "Technicien de Laboratoire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "U ACEEM",
+    "address": "Manakambahiny",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Soins médicaux"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UAZ",
+    "address": "Sambaina Antsirabe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "U.GSI BY PASS",
+    "address": "Alasora",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPA HPI - MASCA",
+    "address": "Namehana",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UPRIM",
+    "address": "Andavamamba",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "URM",
+    "address": "Ambilobe",
+    "type": "PARAMEDICAL",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sage-femme",
+              "Infirmier Généraliste"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE ΑΝΤΑΝΑΝARIVO",
+    "address": "Antananarivo",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Chimie",
+              "Géo système et Évolution",
+              "Mathématiques et Informatique",
+              "Biologie",
+              "Physique et Applications",
+              "Sciences de la Terre et de l'Environnement",
+              "Informatique et Technologie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Biologie",
+              "Physique et Applications",
+              "Chimie",
+              "Géo système et Évolution",
+              "Mathématiques et Informatique",
+              "Sciences de la Terre et de l'Environnement",
+              "Informatique et Technologie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Communication, Médias, Médiation, Innovation et Développement Local",
+              "Francophonie, Plurilinguisme",
+              "Médiation interculturelle",
+              "Études Malgaches",
+              "Philosophie",
+              "Anthropologie fondamentale et appliquée",
+              "Sciences du Tourisme",
+              "Individus et Cultures"
+            ]
+          },
+          {
+            "name": "Licence",
+            "mentions": [
+              "Études Malgaches",
+              "Philosophie",
+              "Études Françaises et Francophonies",
+              "Études Anglophones",
+              "Études Hispaniques et Études Russes",
+              "Anthropologie Générale",
+              "Sciences du Tourisme",
+              "Cultures, Sociétés, Individus"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Administration de l'Éducation",
+              "Enseignement, Apprentissage et Didactique des Sciences Expérimentales (EADSE)",
+              "EADL",
+              "EAD APSA",
+              "EAD HGEC",
+              "EADS Expérimentales et des Mathématiques",
+              "EADL et Philosophie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Administration de l'Éducation",
+              "Recherche en Éducation et Didactiques des Disciplines",
+              "Éducation, Pluralité, Linguistique et Culturelle",
+              "Formation de Ressources Humaines de l'Éducation",
+              "Histoire, Géographie et Éducation Citoyenne",
+              "Usages, Savoirs et CCM",
+              "Physique chimie",
+              "APSA"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "licence",
+            "mentions": [
+              "Génie géologique",
+              "Information Géographique et Aménagement du Territoire (IGAT)",
+              "Ingénierie minière",
+              "STICOM",
+              "Génie mécanique et Industriel",
+              "Télécommunication",
+              "Génie électrique",
+              "Météorologie",
+              "Ingénierie pétrolière",
+              "Génie des procédés chimiques et industriels",
+              "Électronique et Commande, Informatique Appliquée et signaux et systèmes",
+              "Hydraulique",
+              "Sciences et Ingénierie des Matériaux",
+              "BTP",
+              "Génie Rural"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie géologique",
+              "Information Géographique et Aménagement du Territoire (IGAT)",
+              "Ingénierie minière",
+              "Génie mécanique et Industriel",
+              "Télécommunication",
+              "Génie électrique",
+              "Urbanisme et Génie Civil",
+              "Ingénierie pétrolière",
+              "Électronique et Automatique, Informatique Appliquée",
+              "Génie des procédés chimiques et industriels",
+              "Hydraulique",
+              "Sciences et Ingénierie des Matériaux",
+              "BTP",
+              "Génie Rural",
+              "Ingénierie des systèmes avancés"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "licence",
+            "mentions": [
+              "Droit",
+              "Économie",
+              "Gestion",
+              "Sociologie",
+              "Sciences Politiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Économie",
+              "Gestion",
+              "Sociologie",
+              "Sciences Politiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "N/A",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Agriculture Tropicale et Développement Durable",
+              "Sciences Animales",
+              "Foresterie et Environnement",
+              "Agro écologie, Biodiversité et changement climatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "licence et Diplôme d'État de docteur en médecine",
+            "mentions": [
+              "Médecine Humaine"
+            ]
+          },
+          {
+            "name": "licence et Diplôme d'État de docteur en Pharmacie",
+            "mentions": [
+              "Pharmacie"
+            ]
+          },
+          {
+            "name": "licence et Diplôme d'État de docteur Vétérinaire",
+            "mentions": [
+              "Médecine Vétérinaire"
+            ]
+          },
+          {
+            "name": "licence",
+            "mentions": [
+              "Sciences Infirmières",
+              "Maïeutique",
+              "Masso-kinésithérapie",
+              "Technique d'Appareillage",
+              "Technique de Labo",
+              "Anesthésie",
+              "Ergothérapie",
+              "Électroradiologie"
+            ]
+          },
+          {
+            "name": "Master Professionnel",
+            "mentions": [
+              "Sciences Infirmières au Bloc Opératoire",
+              "Santé Mentale",
+              "Puériculture"
+            ]
+          },
+          {
+            "name": "Master Recherche",
+            "mentions": [
+              "Science, Santé, Technologie (Sciences et Technologies médicales)",
+              "Science, Santé, Technologie (Sciences et Technologies Chirurgicales)"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Ergothérapie",
+              "Kinésithérapie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IES-AV INSTITUT D'ENSEIGNEMENT SUPERIEUR D'ANTSIRABE VAKINAKARATRA",
+    "address": "ANTSIRABE",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agriculture",
+              "Élevage",
+              "Environnement",
+              "Génie Civil",
+              "Génie Industriel",
+              "Génie Minier",
+              "Génie Rural",
+              "Automatisme et Informatique",
+              "Génie des Procédés Chimiques et Industriels",
+              "Électronique",
+              "Architecture et Paysagisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agriculture",
+              "Élevage",
+              "Environnement",
+              "Génie Civil",
+              "Génie Industriel",
+              "Génie Minier",
+              "Génie Rural",
+              "Automatisme et Informatique",
+              "Génie des Procédés Chimiques et Industriels",
+              "Électronique",
+              "Architecture et Paysagisme"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Science de l'Informatique",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "STICOM",
+              "Télécommunication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "STICOM",
+              "Télécommunication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Mathématiques",
+              "Biochimie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Mathématiques",
+              "Biochimie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion",
+              "Sciences Économiques",
+              "Sciences Juridiques",
+              "Économie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de Gestion",
+              "Sciences Économiques",
+              "Sciences Juridiques",
+              "Économie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Art, lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Culture et Langues"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Culture et Langues"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IES-SI INSTITUT D'ENSEIGNEMENT SUPERIEUR SOAVINANDRIANA ITASY",
+    "address": "SOAVINANDRIANA ITASY",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Rural",
+              "Agriculture",
+              "Élevage",
+              "Environnement",
+              "Génie Civil",
+              "Ingénieries Minière et Pétrolière",
+              "Énergies renouvelables",
+              "Topographie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agriculture",
+              "Élevage",
+              "Environnement",
+              "Génie Civil",
+              "Ingénieries Minière et Pétrolière",
+              "Génie rural",
+              "Énergies renouvelables",
+              "Topographie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Art, lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Communication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Science de l'Informatique",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "N/A"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "N/A"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion",
+              "Sciences Économiques",
+              "Sciences Juridiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de Gestion",
+              "Sciences Économiques",
+              "Sciences Juridiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ACMIL ACADEMIE MILITAIRE",
+    "address": "ANTSIRABE",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de la Défense"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "CNTEMAD CENTRE NATIONAL DE TELE ENSEIGNEMENT DE MADAGASCAR",
+    "address": "AMBATOMITSANGANA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Génie Industriel et Innovation",
+              "Génie Industriel",
+              "Informatique",
+              "Télécommunication",
+              "Information et Communication des Entreprises"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Industriel",
+              "Informatique",
+              "Télécommunication",
+              "Communication"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Gestion",
+              "Économie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Gestion",
+              "Économie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ENSP ECOLE NATIONALE SUPERIEURE DE LA POLICE",
+    "address": "MAMORY IVATO",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sécurité Publique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSCAE INSTITUT NATIONAL DES SCIENCES COMPTABLES ET DE L'ADMINISTRATION D'ENTREPRISE",
+    "address": "67 НА",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Administration- Comptabilité- Finance"
+            ]
+          },
+          {
+            "name": "Licence",
+            "mentions": [
+              "Comptabilité - Finance"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSPC INSTITUT NATIONAL DE LA SANTE PUBLIQUE ET COMMUNAUTAIRE",
+    "address": "BEFELATANANA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Santé Publique et Communautaire",
+              "Sciences Infirmières"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Santé Publique et Communautaire"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSTN INSTITUT NATIONAL DES SCIENCES ET TECHNIQUES NUCLEAIRES",
+    "address": "ANKATSO",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sûreté Radiologique et Sécurité Nucléaire"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sûreté Radiologique et Sécurité Nucléaire (parcours: Nanosciences pour l'Énergie)"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INTH INSTITUT NATIONAL DE TOURISME ET HOTELLERIE",
+    "address": "AMPEFILOHA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Tourisme-hôtellerie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Tourisme-hôtellerie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST INSTITUT SUPERIEUR DE TECHNOLOGIE D'ANTANANARIVO",
+    "address": "AMPASAPITO",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "DTS, Licence",
+            "mentions": [
+              "Génie Industriel"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Industriel"
+            ]
+          },
+          {
+            "name": "DTSS (Licence)",
+            "mentions": [
+              "Génie Énergétique et Automatisme",
+              "Productique et Maintenance Industrielle",
+              "Génie de l'Aménagement et du Développement Territorial"
+            ]
+          },
+          {
+            "name": "DI (Master)",
+            "mentions": [
+              "Génie Énergétique et Automatisme",
+              "Productique et Maintenance Industrielle",
+              "Génie de l'Aménagement et du Développement Territorial"
+            ]
+          },
+          {
+            "name": "DTS/licence",
+            "mentions": [
+              "Génie Civil"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Génie du management d'entreprise et du Commerce"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie du management d'Entreprise et du Commerce"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur et Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS/DTSS (Licence)",
+            "mentions": [
+              "Entrepreneuriat",
+              "Logistique et Transport",
+              "Business, Trading and Finances"
+            ]
+          },
+          {
+            "name": "DI (Master)",
+            "mentions": [
+              "Entrepreneuriat",
+              "Logistique et Transport",
+              "Business, Trading and Finances"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTB INSTITUT SUPERIEUR DE TECHNOLOGIE DE BONGOLAVA",
+    "address": "TSIROANOMANDIDY",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences agronomiques",
+              "Géo-Ressources et Environnement"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sociologie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE ANTSIRANANA",
+    "address": "Antsiranana",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences",
+              "Sciences du Vivant et de la Terre"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences chimiques",
+              "Sciences Physiques",
+              "Sciences de la Nature et de l'Environnement",
+              "Sciences du Vivant et de la Terre- COVABIO"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Agronomiques et Environnement",
+              "Génie Civil",
+              "Génie Électrique",
+              "Génie Mécanique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Génie Civil",
+              "Génie Électrique",
+              "Génie Mécanique",
+              "Hydraulique et Energétique",
+              "Sciences et Technologie de l'Information et de la Communication (STIC)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "EADIMI",
+              "EADIM",
+              "EADIGC-SM",
+              "EADI-2",
+              "Métiers de l'enseignement et de formation"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "EADIMI",
+              "EADIM",
+              "EADIGC-SM",
+              "EADI-2",
+              "Métiers de l'enseignement et de formation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Langue, Communication et Etudes Littéraires",
+              "Sciences Humaines"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Littérature et Interculturalité",
+              "Sciences du Langage"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de Gestion",
+              "Droit - Sciences Politiques",
+              "Économie",
+              "Administration d'Entreprise"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit - Sciences Politiques",
+              "Sciences de Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences paramédicales",
+              "Maïeutique"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "INSTITUT SUPERIEUR DE TECHNOLOGIE D'ANTSIRANANA",
+    "address": "Antsiranana",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "DTS",
+            "mentions": [
+              "Génie Naval",
+              "Technologie des Communications",
+              "Maintenance et Énergie"
+            ]
+          },
+          {
+            "name": "Licence",
+            "mentions": [
+              "Technologie des Communications",
+              "Maintenance et Énergie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Technologie des Communications"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "DTS",
+            "mentions": [
+              "Finance, Banque et Assurance"
+            ]
+          },
+          {
+            "name": "Licence",
+            "mentions": [
+              "Finance, Banque et Assurance",
+              "Commerce et Services"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénierie",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Ingénierie des Communications Électroniques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE FIANARANTSOA",
+    "address": "Fianarantsoa",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Physique Chimie",
+              "Maths et Applications",
+              "Physique et Application",
+              "Biologie moléculaire-Biodiversité",
+              "Procédé et Écologie Industrielle",
+              "Sciences de la vie",
+              "Informatique",
+              "Eau",
+              "Agroalimentaire",
+              "Agronomie",
+              "Technologie",
+              "Environnement",
+              "Tourisme"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Physique Chimie",
+              "Mathématiques",
+              "Didactique de Mathématiques et Applications",
+              "Chimie Biologie",
+              "Gestion des Ressources et Environnement",
+              "Maths et Applications",
+              "Chimie",
+              "GSEEH",
+              "Biologie moléculaire-Biodiversité",
+              "Procédé et Écologie Industrielle",
+              "Sciences de la vie",
+              "Physique et Application",
+              "Informatique",
+              "Environnement",
+              "Technologies Écologiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences de l'Éducation"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de l'Éducation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Économie, Gestion et Management des Entreprises",
+              "Sciences Sociales",
+              "Droit",
+              "Management",
+              "Relation Publique et Multimédia",
+              "Sciences Sociales de Développement Rural et Communautaire"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Gestion",
+              "Économie",
+              "Sciences Sociales de Développement",
+              "Management",
+              "Relation Publique et Multimédia"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Civilisations et Langues Appliquées (CILA)",
+              "Histoire et Anthropologie",
+              "Géographie"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Civilisations et Langues Appliquées (CILA)",
+              "Histoire et Anthropologie"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "licence",
+            "mentions": [
+              "Médecine Humaine",
+              "Sciences Infirmières",
+              "Maïeutique",
+              "Technicien de Laboratoire",
+              "Paramédicaux"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ECOLE DE GENIE EN AGRONOMIE ET ENVIRONNEMENT ISTA INSTITUT SUPERIEUR DE TECHNOLOGIE D'AMBOSITRA",
+    "address": "AMBOSITRA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie et Agro-alimentaire",
+              "Environnement et Patrimoine",
+              "Informatique"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agronomie et Agro-alimentaire"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Communication Rurale et Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE MAHAJANGA",
+    "address": "Mahajanga",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Géologie-Paléontologie-Muséologie",
+              "Biologie appliquée",
+              "Sciences de la vie, de la terre et de l'environnement",
+              "Sciences de la Matière et de la Structure (SMS)",
+              "Chimie fondamentale et Appliquée (CFo Ap)",
+              "Arts et techniques en Prothèse Dentaire",
+              "Élevage",
+              "agriculture",
+              "aquaculture",
+              "environnement",
+              "Sciences agronomiques et Développement Durable"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Géologie-Paléontologie-Muséologie",
+              "Biochimie et Sciences de l'Environnement",
+              "Biochimie et Sciences de l'Environnement (BMBA-STTD)",
+              "Sciences de la vie, de la terre et de l'environnement",
+              "Sciences de la terre et de l'environnement (PM-GM-STEM)",
+              "- Sciences de la vie et de l'environnement",
+              "Sciences de la vie et de l'environnement (ECOPRIM-BC-VBS-ZOOLOGIE- PANA)",
+              "Sciences de la Matière et de la Structure (SMS)",
+              "Chimie fondamentale et Appliquée (CFo Ap)"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et sciences Politiques",
+              "Gestion",
+              "Sciences Économiques"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Gestion hospitalière",
+              "Finance",
+              "Management",
+              "Sciences Économiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Langues et Civilisations",
+              "Philosophie",
+              "Sociologie",
+              "Communication",
+              "Anthropologie",
+              "Études Françaises",
+              "Psychologie",
+              "Tourisme",
+              "Sciences Sociales"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sociologie",
+              "Philosophie",
+              "Sociologie et Anthropologie",
+              "Communication",
+              "Études Françaises",
+              "Tourisme"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences et Techniques de l'Éducation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Diplôme de Formations Spécialisées en Santé Publique",
+            "mentions": [
+              "Santé Publique"
+            ]
+          },
+          {
+            "name": "Master Spécialisé en Sciences de la Santé (MSSS)",
+            "mentions": [
+              "Santé Publique"
+            ]
+          },
+          {
+            "name": "Internat Qualifiant",
+            "mentions": [
+              "DEFSOS/ - Odonto - Stomatologie"
+            ]
+          },
+          {
+            "name": "Doctorat d'État en chirurgie dentaire/Diplôme de formation Approfondie en Odonto- Stomatologie/ Diplôme de Formation Générale en Odonto- Stomatologie",
+            "mentions": [
+              "Odonto Stomatologie"
+            ]
+          },
+          {
+            "name": "Licence Professionnelle",
+            "mentions": [
+              "Assistanat Dentaire"
+            ]
+          },
+          {
+            "name": "Diplôme d'Université de bases fondamentales en implantologie",
+            "mentions": [
+              "Odonto Stomatologie"
+            ]
+          },
+          {
+            "name": "Licence",
+            "mentions": [
+              "Diététique",
+              "Médecine Humaine",
+              "Paramédicale"
+            ]
+          },
+          {
+            "name": "Docteur d'État",
+            "mentions": [
+              "Pharmacie",
+              "Vétérinaire"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences et technologies en Génies Civil et Industriel (STGCI)",
+              "Sciences et Techniques du Numérique et Physiques Appliquées (Génie Biomédical)",
+              "Biologie Appliquée"
+            ]
+          },
+          {
+            "name": "Master-Ingénieur",
+            "mentions": [
+              "Sciences et Techniques des Génies Civils (STGC)",
+              "Sciences et Technique du Numérique et Physiques Appliquées"
+            ]
+          },
+          {
+            "name": "Diplôme d'Ingénieur/Master",
+            "mentions": [
+              "Agro biodiversité et Environnement"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE TOAMASINA",
+    "address": "Toamasina",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Master",
+            "mentions": [
+              "Formation en ligne",
+              "Anthropologie Sociale",
+              "Études Françaises",
+              "Géographie",
+              "Histoire",
+              "Philosophie",
+              "Etudes Françaises"
+            ]
+          },
+          {
+            "name": "licence",
+            "mentions": [
+              "Anthropologie Appliquée au Développement",
+              "Études Françaises",
+              "Géographie",
+              "Histoire",
+              "Philosophie",
+              "Anthropologie Sociale et Culturelle",
+              "Humanités, Développement et Durabilité (Licence)",
+              "Valorisation du Tourisme, des Patrimoines et des Territoires"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Sciences Infirmières",
+              "Maïeutique",
+              "Médecine humaine",
+              "Sciences Paramédicales"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et Sciences Politiques",
+              "Mathématiques, Informatique et Applications",
+              "Sciences Économiques",
+              "Sciences de Gestion",
+              "Droit",
+              "Droit (FOAD)",
+              "Économie",
+              "Gestion",
+              "Valorisation du Tourisme, des Patrimoines et des Territoires",
+              "Tourisme et Patrimoine dans les Tropicaux",
+              "Socio management et Développement Local"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit et Sciences Politiques",
+              "Mathématiques, Informatique et Applications",
+              "Sciences Économiques",
+              "Sciences de Gestion",
+              "Droit",
+              "Droit (FOAD)",
+              "Économie",
+              "Gestion",
+              "Droit et Études Politiques"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Éducation, Apprentissage, Didactique et Mathématique Informatique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Physique Chimie",
+              "Sciences de l'Environnement et du Développement"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences de l'Environnement et du Développement"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie"
+            ]
+          },
+          {
+            "name": "Master/Ingénieur",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTRALMA INSTITUT SUPERIEUR DES TECHNOLOGIES REGIONAL D'ALAOTRA MANGORO",
+    "address": "AMBATONDRAZAKA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit et Sciences Politiques",
+              "Sciences de Gestion",
+              "Sciences Économiques",
+              "Économie",
+              "Droit et Études Politiques",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Sciences Économiques",
+              "Droit et Études Politiques",
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie"
+            ]
+          },
+          {
+            "name": "Master/Ingénieur",
+            "mentions": [
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTCE INSTITUT SUPERIEUR DES TECHNOLOGIES DE LA COTE-EST",
+    "address": "FENERIVE-EST",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de l'Ingénieur",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie et Agro-alimentaire"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Agro-Management"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ISTRCE INSTITUT SUPERIEUR DES TECHNOLOGIES REGIONAL DE LA COTE-EST",
+    "address": "Toamasina",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Gestion des Entreprises et des Administrations",
+              "Gestion Polyvalente"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Science de l'Ingénieur",
+        "grades": [
+          {
+            "name": "DTS et Licence",
+            "mentions": [
+              "Technologie de Développement Rural",
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "UNIVERSITE TOLIARA",
+    "address": "Toliara",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences de la Société",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Droit",
+              "Économie Gestion",
+              "Sociologie",
+              "Économie",
+              "Gestion"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Droit",
+              "Économie",
+              "Gestion"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Arts, Lettres et Sciences Humaines",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Études Françaises et Francophones",
+              "Philosophie",
+              "Malagasy",
+              "Histoire",
+              "Géographie",
+              "Lettres modernes et Sciences Sociales"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Philosophie",
+              "Malagasy",
+              "Histoire",
+              "Géographie",
+              "Lettres modernes et Sciences Sociales"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Physique Chimie",
+              "Sciences de la Vie et de la Terre",
+              "Physique et Applications",
+              "Paléontologie",
+              "Sciences Marines et Halieutiques",
+              "Sciences, Technologies et Environnement"
+            ]
+          },
+          {
+            "name": "Master",
+            "mentions": [
+              "Physique et Applications",
+              "Chimie",
+              "Sciences de la Vie",
+              "Sciences Marines et Halieutique"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de l'Éducation",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Psychologie et Métier de l'Éducation"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sciences de la Santé",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Médecine Humaine",
+              "Sciences Infirmières",
+              "Sciences Maïeutiques"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST TOLIARA IST DE L'ANDROY",
+    "address": "TOLIARA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Agronomie",
+              "Eau"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST ANOSY INSTITUT SUPERIEUR DE TECHNOLOGIE ANOSY",
+    "address": "TOLAGNARO",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Techniques de l'Environnement marin et terrestre"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IST MENABE INSTITUT SUPERIEUR DE TECHNOLOGIE MENABE",
+    "address": "MORONDAVA",
+    "type": "PUBLIC",
+    "domains": [
+      {
+        "name": "Sciences et Technologies",
+        "grades": [
+          {
+            "name": "Licence",
+            "mentions": [
+              "Techniques de l'Environnement",
+              "Agronomie"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+```

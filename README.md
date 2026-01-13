@@ -18,6 +18,8 @@ Cette liste peut être utilisée pour :
 - Évaluer la reconnaissance d’un diplôme à l’étranger
 - Renseigner les étudiants souhaitant s’inscrire dans une université malgache agréée
 
+- API : https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/Universities.json
+
 ---
 
 ## 📄 Source officielle

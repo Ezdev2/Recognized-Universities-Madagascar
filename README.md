@@ -1,4 +1,4 @@
-# 🇲🇬 Madagascar Accredited Universities API
+# 🇲🇬 API des Universités de Madagascar
 
 [![Data Quality](https://img.shields.io/badge/Data-Official-emerald)](https://github.com/ezdev2/Recognized-Universities-Madagascar)
 [![Last Update](https://img.shields.io/badge/Dernière%20Mise%20à%20Jour-AUTO-blue)](#)

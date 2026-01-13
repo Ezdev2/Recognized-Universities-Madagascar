@@ -1,0 +1,26 @@
+name: Update Last Modified Date
+on:
+  push:
+    paths:
+      - '**.json'
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update README
+        run: |
+          # Récupère la date du jour
+          LAST_UPDATE=$(date +'%d %B %Y')
+          # Remplace la ligne spécifique dans le README
+          sed -i "s/Dernière mise à jour : .*/Dernière mise à jour : $LAST_UPDATE/" README.md
+          
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: mise à jour automatique de la date" || exit 0
+          git push

@@ -1,6 +1,11 @@
-# Liste des Universités reconnaissables à Madagascar
+# 🇲🇬 Madagascar Accredited Universities API
 
-Ce dépôt contient une liste complète des **établissements d’enseignement supérieur officiellement reconnus** en format JSON extrait depuis le site de **Ministère de l’Enseignement Supérieur et de la Recherche Scientifique (MESUPRES)** de Madagascar, mise à jour en **août 2022**.
+[![Data Quality](https://img.shields.io/badge/Data-Official-emerald)](https://github.com/ezdev2/Recognized-Universities-Madagascar)
+[![Last Update](https://img.shields.io/badge/Dernière%20Mise%20à%20Jour-AUTO-blue)](#)
+
+Cette plateforme fournit un accès structuré (JSON) à la liste des universités et instituts supérieurs accrédités par le Ministère de l'Enseignement Supérieur de Madagascar.
+
+> **Dernière mise à jour globale :** _Mardi 13 Janvier 2026_
 
 ---
 
@@ -10,19 +15,55 @@ Cette liste a été extraite d’un **document PDF public** fourni par le MESUPR
 
 ---
 
-## ✅ Utilisation
+## Utilisation de l'API (Endpoints)
 
-Cette liste peut être utilisée pour :
+Vous pouvez utiliser ces fichiers directement dans vos applications (via `fetch` ou `axios`) en utilisant les liens "Raw" de GitHub :
 
-- Vérifier l’éligibilité d’un établissement
-- Évaluer la reconnaissance d’un diplôme à l’étranger
-- Renseigner les étudiants souhaitant s’inscrire dans une université malgache agréée
+| Ressource | URL de l'API | Description |
+| :--- | :--- | :--- |
+| **Universités** | `https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json` | Liste des établissements (Nom, Adresse, Type). |
+| **Domaines** | `https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/domain.json` | Mentions et filières accréditées par établissement. |
 
-- API : https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/Universities.json
+### Exemple rapide (JavaScript)
+```javascript
+fetch('[https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json](https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json)')
+  .then(res => res.json())
+  .then(data => console.log(data));
+
+```
 
 ---
 
-## 📄 Source officielle
+## 🤝 Comment Contribuer ?
+
+Nous avons besoin de la communauté pour maintenir ces données à jour !
+
+### 1. Proposer une modification
+
+Si vous constatez une erreur ou une université manquante :
+
+1. **Forkez** ce dépôt.
+2. Modifiez le fichier `university.json` ou `domain.json`.
+3. Assurez-vous que le **nom de l'université** est identique dans les deux fichiers pour garantir la liaison des données.
+4. Soumettez une **Pull Request (PR)**.
+
+### 2. Critères de validation
+
+Pour être acceptée, toute modification doit :
+
+* Correspondre à une accréditation officielle du MESUPRES.
+* Respecter le formatage JSON actuel (pas de fautes de frappe dans les clés).
+* Être accompagnée d'un lien source si POSSIBLE (site officiel, décret, etc.).
+
+---
+
+## Protection des données
+
+La branche `main` est protégée. Toutes les modifications doivent passer par une Pull Request et une validation manuelle pour garantir la fiabilité des informations diffusées aux étudiants.
+
+---
+
+## Source officielle
 
 > **Ministère de l’Enseignement Supérieur et de la Recherche Scientifique (MESUPRES)**  
 > **Document :** Liste des établissements d’enseignement supérieur reconnus – Dernière mis à jour Août 2022  
@@ -31,7 +72,7 @@ Cette liste peut être utilisée pour :
 
 ---
 
-## 📥 Télécharger
+## Télécharger
 
 La liste complète est disponible dans le fichier :  
 👉 [`liste-universites-madagascar.pdf`](https://www.mesupres.gov.mg/assets/front/documents/documents/habilitations/liste_des_institutions_superieures_mise_a_jour_aout_2022.pdf)
@@ -41,7 +82,7 @@ La liste complète est disponible dans le fichier :
 ## ✉️ Contact
 
 Pour toute mise à jour ou suggestion, veuillez contacter :  
-📧 [fansoae@gmail.com]
+📧 [fansoaezra@gmail.com]
 
 ---
 

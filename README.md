@@ -35,6 +35,13 @@ fetch('https://cdn.jsdelivr.net/gh/ezdev2/Recognized-Universities-Madagascar@mai
 
 ---
 
+## 🌍 Exemple d'utilisation
+
+Vous pouvez voir une implémentation concrète de cette API sur la plateforme suivante :
+👉 **[UniMada - Panorama Universitaire](https://universite.smartparcours.site/)**
+
+---
+
 ## 🤝 Comment Contribuer ?
 
 Nous avons besoin de la communauté pour maintenir ces données à jour !

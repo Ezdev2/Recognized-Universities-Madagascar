@@ -4,14 +4,9 @@
 [![Last Update](https://img.shields.io/badge/Dernière%20Mise%20à%20Jour-AUTO-blue)](#)
 
 Cette plateforme fournit un accès structuré (JSON) à la liste des universités et instituts supérieurs accrédités par le Ministère de l'Enseignement Supérieur de Madagascar.
+La liste a été extraite d’un **document PDF public** fourni par le MESUPRES, disponible publiquement sur leur site officiel. Elle recense les universités, instituts supérieurs, écoles spécialisées et établissements agréés à délivrer des diplômes de type Licence, Master et Doctorat.
 
 > **Dernière mise à jour globale :** _Mardi 13 Janvier 2026_
-
----
-
-## À propos de cette liste
-
-Cette liste a été extraite d’un **document PDF public** fourni par le MESUPRES, disponible publiquement sur leur site officiel. Elle recense les universités, instituts supérieurs, écoles spécialisées et établissements agréés à délivrer des diplômes de type Licence, Master et Doctorat.
 
 ---
 

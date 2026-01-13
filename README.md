@@ -21,14 +21,15 @@ Vous pouvez utiliser ces fichiers directement dans vos applications (via `fetch`
 
 | Ressource | URL de l'API | Description |
 | :--- | :--- | :--- |
-| **Universités** | `https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json` | Liste des établissements (Nom, Adresse, Type). |
-| **Domaines** | `https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/domain.json` | Mentions et filières accréditées par établissement. |
+| **Universités** | `https://cdn.jsdelivr.net/gh/ezdev2/Recognized-Universities-Madagascar@main/university.json` | Liste des établissements (Nom, Adresse, Type). |
+| **Domaines** | `https://cdn.jsdelivr.net/gh/ezdev2/Recognized-Universities-Madagascar@main/domain.json` | Mentions et filières accréditées par établissement. |
 
 ### Exemple rapide (JavaScript)
 ```javascript
-fetch('[https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json](https://raw.githubusercontent.com/ezdev2/Recognized-Universities-Madagascar/main/university.json)')
+fetch('https://cdn.jsdelivr.net/gh/ezdev2/Recognized-Universities-Madagascar@main/university.json')
   .then(res => res.json())
-  .then(data => console.log(data));
+  .then(data => console.log(data))
+  .catch(err => console.error("Erreur :", err));
 
 ```
 

@@ -12,10 +12,9 @@ jobs:
       
       - name: Update README
         run: |
-          # Récupère la date du jour
-          LAST_UPDATE=$(date +'%d %B %Y')
-          # Remplace la ligne spécifique dans le README
-          sed -i "s/Dernière mise à jour : .*/Dernière mise à jour : $LAST_UPDATE/" README.md
+          # %H = Heure (00-23), %M = Minutes
+          LAST_UPDATE=$(date +'%d %B %Y à %H:%M')
+          sed -i "s/Dernière mise à jour globale : .*/Dernière mise à jour globale : $LAST_UPDATE/" README.md
           
       - name: Commit and Push
         run: |
